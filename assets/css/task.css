@@ -1,0 +1,34 @@
+#calculator .inputs{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#calculator .inputs input{
+    width: 500px;
+    border-radius: 1px;
+}
+
+#calculator .operation{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+#calculator .operation button{
+    width: 200px;
+    margin-left: 30px;
+    border-radius: 1px;
+}
+
+#calculator .result{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#calculator .result input{
+    width: 550px;
+    border-radius: 1px;
+}
+
+#calculator .result input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
